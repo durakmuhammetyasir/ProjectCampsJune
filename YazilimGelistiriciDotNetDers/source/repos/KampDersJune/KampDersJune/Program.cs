@@ -10,7 +10,7 @@ namespace Day2KampIntroJune
             bool sistemeGirisYapmisMi = false;
             if (sistemeGirisYapmisMi==true)
             {
-                Console.WriteLine("");
+                Console.WriteLine("Kullanici ayarlari butonu");
             }
             Console.WriteLine(kategoriEtiketi);
         }
