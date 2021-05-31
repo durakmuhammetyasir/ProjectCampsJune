@@ -1,0 +1,12 @@
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\bin\Debug\netcoreapp3.1\Day2Homework2.exe
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\bin\Debug\netcoreapp3.1\Day2Homework2.deps.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\bin\Debug\netcoreapp3.1\Day2Homework2.runtimeconfig.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\bin\Debug\netcoreapp3.1\Day2Homework2.runtimeconfig.dev.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\bin\Debug\netcoreapp3.1\Day2Homework2.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\bin\Debug\netcoreapp3.1\Day2Homework2.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\obj\Debug\netcoreapp3.1\Day2Homework2.AssemblyInfoInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\obj\Debug\netcoreapp3.1\Day2Homework2.AssemblyInfo.cs
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\obj\Debug\netcoreapp3.1\Day2Homework2.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\obj\Debug\netcoreapp3.1\Day2Homework2.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\obj\Debug\netcoreapp3.1\Day2Homework2.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\Day2Homework2\obj\Debug\netcoreapp3.1\Day2Homework2.genruntimeconfig.cache

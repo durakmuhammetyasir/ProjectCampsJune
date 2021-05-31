@@ -1,0 +1,13 @@
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\obj\Debug\netcoreapp3.1\KampHomeWorkJune.csproj.AssemblyReference.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\obj\Debug\netcoreapp3.1\KampHomeWorkJune.AssemblyInfoInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\obj\Debug\netcoreapp3.1\KampHomeWorkJune.AssemblyInfo.cs
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\obj\Debug\netcoreapp3.1\KampHomeWorkJune.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\bin\Debug\netcoreapp3.1\KampHomeWorkJune.exe
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\bin\Debug\netcoreapp3.1\KampHomeWorkJune.deps.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\bin\Debug\netcoreapp3.1\KampHomeWorkJune.runtimeconfig.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\bin\Debug\netcoreapp3.1\KampHomeWorkJune.runtimeconfig.dev.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\bin\Debug\netcoreapp3.1\KampHomeWorkJune.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\bin\Debug\netcoreapp3.1\KampHomeWorkJune.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\obj\Debug\netcoreapp3.1\KampHomeWorkJune.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\obj\Debug\netcoreapp3.1\KampHomeWorkJune.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\KampHomeWorkJune\KampHomeWorkJune\obj\Debug\netcoreapp3.1\KampHomeWorkJune.genruntimeconfig.cache

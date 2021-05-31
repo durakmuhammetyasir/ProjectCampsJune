@@ -1,0 +1,12 @@
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\bin\Debug\netcoreapp3.1\Day2KampIntroJune.exe
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\bin\Debug\netcoreapp3.1\Day2KampIntroJune.deps.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\bin\Debug\netcoreapp3.1\Day2KampIntroJune.runtimeconfig.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\bin\Debug\netcoreapp3.1\Day2KampIntroJune.runtimeconfig.dev.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\bin\Debug\netcoreapp3.1\Day2KampIntroJune.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\bin\Debug\netcoreapp3.1\Day2KampIntroJune.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\obj\Debug\netcoreapp3.1\Day2KampIntroJune.AssemblyInfoInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\obj\Debug\netcoreapp3.1\Day2KampIntroJune.AssemblyInfo.cs
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\obj\Debug\netcoreapp3.1\Day2KampIntroJune.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\obj\Debug\netcoreapp3.1\Day2KampIntroJune.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\obj\Debug\netcoreapp3.1\Day2KampIntroJune.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\KampDersJune\obj\Debug\netcoreapp3.1\Day2KampIntroJune.genruntimeconfig.cache
