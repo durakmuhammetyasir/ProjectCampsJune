@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\Day2Homework4\\Day2Homework4.csproj",
-      "projectName": "Day2Homework4",
-      "projectPath": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\Day2Homework4\\Day2Homework4.csproj",
+      "projectUniqueName": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\Day2Homework4\\Day2Homework4WhileLoop.csproj",
+      "projectName": "Day2Homework4WhileLoop",
+      "projectPath": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\Day2Homework4\\Day2Homework4WhileLoop.csproj",
       "packagesPath": "C:\\Users\\Muaz\\.nuget\\packages\\",
       "outputPath": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\Day2Homework4\\obj\\",
       "projectStyle": "PackageReference",

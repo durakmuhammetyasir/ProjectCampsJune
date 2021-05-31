@@ -2,7 +2,7 @@
 
 namespace Day2Homework4
 {
-    class Program
+    class Day2Homework4While
     {
         static void Main(string[] args)
         {

@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Homework1DataTypes", "KampHomeWorkJune\Day2Homework1DataTypes.csproj", "{84030D9E-E750-4C87-BFB6-E722B1A2C095}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Homework1DataTypes", "KampHomeWorkJune\Day2Homework1DataTypes.csproj", "{84030D9E-E750-4C87-BFB6-E722B1A2C095}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Homework2TernaryOperator", "Day2Homework2\Day2Homework2TernaryOperator.csproj", "{1DCC49D6-BFC1-4663-BB7F-86730EABF399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Homework2TernaryOperator", "Day2Homework2\Day2Homework2TernaryOperator.csproj", "{1DCC49D6-BFC1-4663-BB7F-86730EABF399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Homework3Switch", "Day3Homework3Switch\Day2Homework3Switch.csproj", "{07BF62E5-7D95-404F-8C50-E93B9B0CC5C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Homework3Switch", "Day3Homework3Switch\Day2Homework3Switch.csproj", "{07BF62E5-7D95-404F-8C50-E93B9B0CC5C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day2Homework4", "Day2Homework4\Day2Homework4.csproj", "{C095D6AA-BD18-47D5-A1C7-E0F6E0C2CA93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day2Homework4WhileLoop", "Day2Homework4\Day2Homework4WhileLoop.csproj", "{C095D6AA-BD18-47D5-A1C7-E0F6E0C2CA93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,7 +2,7 @@
 
 namespace Day2Homework2
 {
-    class Day2Homework2
+    class Day2Homework2Ternary
     {
         static void Main(string[] args)
         {

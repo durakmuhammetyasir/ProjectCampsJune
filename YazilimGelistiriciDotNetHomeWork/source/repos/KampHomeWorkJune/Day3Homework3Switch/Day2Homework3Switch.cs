@@ -2,7 +2,7 @@
 
 namespace Day2Homework3Switch
 {
-    class Program
+    class Day2Homework3Switch
     {
         static void Main(string[] args)
         {

@@ -2,7 +2,7 @@
 
 namespace KampHomeWorkJune
 {
-    class Day2Homework1
+    class Day2Homework1DataTypes
     {
         static void Main(string[] args)
         {
