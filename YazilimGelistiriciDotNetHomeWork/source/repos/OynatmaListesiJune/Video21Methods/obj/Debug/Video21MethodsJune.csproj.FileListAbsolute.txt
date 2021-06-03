@@ -1,0 +1,6 @@
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video21Methods\bin\Debug\Video21Methods.exe.config
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video21Methods\bin\Debug\Video21Methods.exe
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video21Methods\bin\Debug\Video21Methods.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video21Methods\obj\Debug\Video21MethodsJune.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video21Methods\obj\Debug\Video21Methods.exe
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video21Methods\obj\Debug\Video21Methods.pdb

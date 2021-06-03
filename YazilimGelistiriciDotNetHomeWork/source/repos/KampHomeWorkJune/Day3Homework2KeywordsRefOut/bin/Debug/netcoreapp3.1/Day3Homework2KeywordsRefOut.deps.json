@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Day3Homework2KeywordsRefOut/1.0.0": {
+        "runtime": {
+          "Day3Homework2KeywordsRefOut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day3Homework2KeywordsRefOut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

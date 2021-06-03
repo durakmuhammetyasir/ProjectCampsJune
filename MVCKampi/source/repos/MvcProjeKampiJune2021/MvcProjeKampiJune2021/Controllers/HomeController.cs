@@ -26,5 +26,9 @@ namespace MvcProjeKampiJune2021.Controllers
 
             return View();
         }
+        public ActionResult Test()
+        {
+            return View();
+        }
     }
 }
