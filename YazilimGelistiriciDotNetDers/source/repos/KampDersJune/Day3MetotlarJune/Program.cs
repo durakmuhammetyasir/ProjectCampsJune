@@ -6,7 +6,8 @@ namespace Day3MetotlarJune
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Don't repeat yourself DRY Clean code Best practices
+
         }
     }
 }
