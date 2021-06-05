@@ -1,0 +1,17 @@
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\EntityLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\EntityLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache

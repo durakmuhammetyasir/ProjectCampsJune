@@ -1,0 +1,12 @@
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\bin\Debug\EntityLayer.dll.config
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\bin\Debug\EntityLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\bin\Debug\EntityLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\bin\Debug\EntityFramework.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\bin\Debug\EntityFramework.xml
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\obj\Debug\EntityLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\EntityLayer\obj\Debug\EntityLayer.pdb
