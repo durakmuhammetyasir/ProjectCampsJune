@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="day2OopIntroJune.Product"/>
+    <fullyQualifiedTypeName name="day2OopIntroJune.Category"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.aarch64.AArch64HotSpotBackendFactory"/>
 </qualifiedTypeNameHistroy>
