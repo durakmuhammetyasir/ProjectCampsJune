@@ -24,14 +24,20 @@ public class Main {
 		System.out.println(products.length);
 		for (Product product : products) {
 			System.out.println(product.name);
-			
+		}
 		Category category1 = new Category();
 		category1.id = 1;
 		category1.name = "Bilgisayar"; 
 		Category category2 = new Category();
 		category2.id = 2;
-		category2.name = "Ev/Bahce"; 
-		}
+		category2.name = "Ev/Bahce";
+		
+		ProductManager productManager = new ProductManager();
+		productManager.addToCart();
+		productManager.addToCart(product4);
+		productManager.addToCart(product3);
+		productManager.addToCart(product2);
+		productManager.addToCart(product1);		
 	}
 }
 

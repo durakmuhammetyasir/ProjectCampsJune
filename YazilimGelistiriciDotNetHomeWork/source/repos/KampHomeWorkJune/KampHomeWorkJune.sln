@@ -33,9 +33,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day2Homework", "Day2Homewor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4Homework1ReferenceTypes", "Day4Homework1ReferenceTypes\Day4Homework1ReferenceTypes.csproj", "{7A07A320-BC7A-4154-8A71-D59425C1DB63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4Homework2Constructor", "Day4Homework2Constructor\Day4Homework2Constructor.csproj", "{7E4FC50E-4A27-4916-9EA1-383C05151656}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4Homework2Constructor", "Day4Homework2Constructor\Day4Homework2Constructor.csproj", "{7E4FC50E-4A27-4916-9EA1-383C05151656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4Homework3Generics", "Day4Homework3Generics\Day4Homework3Generics.csproj", "{9A7782E7-C4E7-4083-9147-8CAF4936D812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4Homework3Generics", "Day4Homework3Generics\Day4Homework3Generics.csproj", "{9A7782E7-C4E7-4083-9147-8CAF4936D812}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4Homework5Dictionary", "Day4Homework5DictionaryJune\Day4Homework5Dictionary.csproj", "{0A70090D-6D13-4C6B-B345-BA1F41E0287C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4Homework4DictionaryExplain", "Day4Homework4DictionaryExplain\Day4Homework4DictionaryExplain.csproj", "{492C228C-7A11-4463-AFC9-4BA8570F7922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day4Homework5MyDictionary", "day4Homework5MyDictionary\day4Homework5MyDictionary.csproj", "{C3DEEDB5-06B4-455E-86C3-7554A6EA0B50}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +105,18 @@ Global
 		{9A7782E7-C4E7-4083-9147-8CAF4936D812}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A7782E7-C4E7-4083-9147-8CAF4936D812}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A7782E7-C4E7-4083-9147-8CAF4936D812}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A70090D-6D13-4C6B-B345-BA1F41E0287C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A70090D-6D13-4C6B-B345-BA1F41E0287C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A70090D-6D13-4C6B-B345-BA1F41E0287C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A70090D-6D13-4C6B-B345-BA1F41E0287C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492C228C-7A11-4463-AFC9-4BA8570F7922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492C228C-7A11-4463-AFC9-4BA8570F7922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492C228C-7A11-4463-AFC9-4BA8570F7922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492C228C-7A11-4463-AFC9-4BA8570F7922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3DEEDB5-06B4-455E-86C3-7554A6EA0B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DEEDB5-06B4-455E-86C3-7554A6EA0B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DEEDB5-06B4-455E-86C3-7554A6EA0B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DEEDB5-06B4-455E-86C3-7554A6EA0B50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +136,9 @@ Global
 		{7A07A320-BC7A-4154-8A71-D59425C1DB63} = {3D01F871-2991-460D-976A-ED8743DF34BD}
 		{7E4FC50E-4A27-4916-9EA1-383C05151656} = {3D01F871-2991-460D-976A-ED8743DF34BD}
 		{9A7782E7-C4E7-4083-9147-8CAF4936D812} = {3D01F871-2991-460D-976A-ED8743DF34BD}
+		{0A70090D-6D13-4C6B-B345-BA1F41E0287C} = {3D01F871-2991-460D-976A-ED8743DF34BD}
+		{492C228C-7A11-4463-AFC9-4BA8570F7922} = {3D01F871-2991-460D-976A-ED8743DF34BD}
+		{C3DEEDB5-06B4-455E-86C3-7554A6EA0B50} = {3D01F871-2991-460D-976A-ED8743DF34BD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {667EF718-C901-4580-B0EF-1E99905DBB5E}
