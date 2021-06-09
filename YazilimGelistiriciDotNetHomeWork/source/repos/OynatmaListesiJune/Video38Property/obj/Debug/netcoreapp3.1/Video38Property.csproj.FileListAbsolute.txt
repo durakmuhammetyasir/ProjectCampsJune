@@ -1,0 +1,13 @@
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\bin\Debug\netcoreapp3.1\Video38Property.exe
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\bin\Debug\netcoreapp3.1\Video38Property.deps.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\bin\Debug\netcoreapp3.1\Video38Property.runtimeconfig.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\bin\Debug\netcoreapp3.1\Video38Property.runtimeconfig.dev.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\bin\Debug\netcoreapp3.1\Video38Property.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\bin\Debug\netcoreapp3.1\Video38Property.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\obj\Debug\netcoreapp3.1\Video38Property.csproj.AssemblyReference.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\obj\Debug\netcoreapp3.1\Video38Property.AssemblyInfoInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\obj\Debug\netcoreapp3.1\Video38Property.AssemblyInfo.cs
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\obj\Debug\netcoreapp3.1\Video38Property.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\obj\Debug\netcoreapp3.1\Video38Property.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\obj\Debug\netcoreapp3.1\Video38Property.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetHomeWork\source\repos\OynatmaListesiJune\Video38Property\obj\Debug\netcoreapp3.1\Video38Property.genruntimeconfig.cache

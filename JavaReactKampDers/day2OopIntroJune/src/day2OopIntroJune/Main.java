@@ -24,25 +24,50 @@ public class Main {
 		product3.setDiscount(10);
 		Product product4 = new Product(1, "Lenovo V14", 15000, 
 				"16 GB Ram",10);
-		Product[] products = {product1, product2, product3,product4};
-		System.out.println(products.length);
-		for (Product product : products) {
-			System.out.println(product.getName() + " indirim sonrasi fiyat " + product.getUnitPriceAfterDiscont());
-			
-		}
+		
 		Category category1 = new Category();
-		category1.id = 1;
-		category1.name = "Bilgisayar"; 
+		/*
+		 * category1.id = 1; 
+		 * category1.name = "Bilgisayar";
+		 */
+		category1.setId( 1);
+		category1.setName ("Bilgisayar"); 
 		Category category2 = new Category();
-		category2.id = 2;
-		category2.name = "Ev/Bahce";
+		/*
+		 * category2.id = 2; 
+		 * category2.name = "Ev/Bahce";
+		 */
+		category2.setId ( 2);
+		category2.setName ( "Ev/Bahce");
 		
 		ProductManager productManager = new ProductManager();
 		productManager.addToCart();
-		productManager.addToCart(product4);
-		productManager.addToCart(product3);
-		productManager.addToCart(product2);
-		productManager.addToCart(product1);		
+		/*
+		 * productManager.addToCart(product4); 
+		 * productManager.addToCart(product3);
+		 * productManager.addToCart(product2); 
+		 * productManager.addToCart(product1);
+		 */
+		
+		Product[] products = {product1, product2, product3,product4};
+		System.out.println("Urun Cesidi Sayisi : " + products.length + "\n");
+		for (Product product : products) {
+			productManager.addToCart(product);
+			System.out.println(product.getName() + " indirim sonrasi fiyat "
+					+ product.getUnitPriceAfterDiscont() + "\n");			
+		}
+		
+		Category[] categories = {category1, category2};
+		System.out.println("Urun Kategorisi Sayisi : " + categories.length + "\n");
+		boolean hasTitle = false; 
+		for (Category category : categories) {
+			if(!hasTitle) {
+				System.out.println("Urun kategorileri\n");
+				hasTitle =true;
+			}
+			System.out.println(category.getId() + " " + category.getName() +"\n");			
+			
+		}
 	}
 }
 

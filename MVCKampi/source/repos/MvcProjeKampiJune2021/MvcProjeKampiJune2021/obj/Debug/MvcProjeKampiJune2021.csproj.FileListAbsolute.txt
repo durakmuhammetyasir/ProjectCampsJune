@@ -77,3 +77,16 @@ E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKam
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\obj\Debug\MvcProjeKampiJune2021.csproj.CopyComplete
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\obj\Debug\MvcProjeKampiJune2021.dll
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\obj\Debug\MvcProjeKampiJune2021.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\BusinessLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\DataAccessLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityLayer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityFramework.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\BusinessLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\BusinessLayer.dll.config
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\DataAccessLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\DataAccessLayer.dll.config
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityLayer.dll.config
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityFramework.xml
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityFramework.SqlServer.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityFramework.SqlServer.xml

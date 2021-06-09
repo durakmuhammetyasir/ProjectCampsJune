@@ -10,3 +10,4 @@ E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\
 E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.dll
 E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.pdb
 E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.genruntimeconfig.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.csproj.AssemblyReference.cache

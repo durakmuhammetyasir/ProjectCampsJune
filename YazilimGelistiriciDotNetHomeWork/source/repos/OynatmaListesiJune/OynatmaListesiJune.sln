@@ -23,7 +23,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day3Homework1", "Day3Homewo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day5Homework1", "Day5Homework1", "{E0A566EF-36AA-4545-91B3-614EC3B0672B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video37ClassIntroJune", "Video37ClassIntroJune\Video37ClassIntroJune.csproj", "{F264FB33-73BD-4BC6-ADDE-67AA0F49EE6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Video37ClassIntroJune", "Video37ClassIntroJune\Video37ClassIntroJune.csproj", "{F264FB33-73BD-4BC6-ADDE-67AA0F49EE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video38Property", "Video38Property\Video38Property.csproj", "{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{F264FB33-73BD-4BC6-ADDE-67AA0F49EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F264FB33-73BD-4BC6-ADDE-67AA0F49EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F264FB33-73BD-4BC6-ADDE-67AA0F49EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{FD4DC241-61F5-418F-8046-79D7B19FB258} = {00FCDA71-F236-4BB6-AD3B-767B6FC79ADB}
 		{2C423EE0-9B98-4808-9728-41C5786E3614} = {00FCDA71-F236-4BB6-AD3B-767B6FC79ADB}
 		{F264FB33-73BD-4BC6-ADDE-67AA0F49EE6C} = {E0A566EF-36AA-4545-91B3-614EC3B0672B}
+		{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1} = {E0A566EF-36AA-4545-91B3-614EC3B0672B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {44171C86-D7D1-461A-B751-6E2D14DB7326}

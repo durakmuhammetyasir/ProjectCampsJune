@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="day2OopIntroJune.Category"/>
     <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.aarch64.AArch64HotSpotBackendFactory"/>
     <fullyQualifiedTypeName name="day2OopIntroJune.ProductManager"/>
+    <fullyQualifiedTypeName name="day3Inheritance.Customer"/>
 </qualifiedTypeNameHistroy>
