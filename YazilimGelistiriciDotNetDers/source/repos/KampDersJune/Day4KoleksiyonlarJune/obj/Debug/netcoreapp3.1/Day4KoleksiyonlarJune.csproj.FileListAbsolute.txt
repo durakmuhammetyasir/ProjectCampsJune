@@ -1,0 +1,12 @@
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\bin\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.exe
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\bin\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.deps.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\bin\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.runtimeconfig.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\bin\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.runtimeconfig.dev.json
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\bin\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\bin\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.AssemblyInfoInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.AssemblyInfo.cs
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.csproj.CoreCompileInputs.cache
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.dll
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.pdb
+E:\ProjeKamplariJune2021\YazilimGelistiriciDotNetDers\source\repos\KampDersJune\Day4KoleksiyonlarJune\obj\Debug\netcoreapp3.1\Day4KoleksiyonlarJune.genruntimeconfig.cache

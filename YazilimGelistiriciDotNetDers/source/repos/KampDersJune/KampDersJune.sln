@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3MatematikJune", "Day3Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3ValueReferenceTypesJune", "Day3ValueReferenceTypesJune\Day3ValueReferenceTypesJune.csproj", "{8A8CE246-7672-4815-AC0A-468305728242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4ObjectOrientedProgrammingJune", "Day4ObjectOrientedProgrammingJune\Day4ObjectOrientedProgrammingJune.csproj", "{84137B03-DB5F-40B5-81F5-07B35FA49AF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day4ObjectOrientedProgrammingJune", "Day4ObjectOrientedProgrammingJune\Day4ObjectOrientedProgrammingJune.csproj", "{84137B03-DB5F-40B5-81F5-07B35FA49AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day4KoleksiyonlarJune", "Day4KoleksiyonlarJune\Day4KoleksiyonlarJune.csproj", "{C0F0ED75-D3F8-48ED-9BA7-66A15B9DB6A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{84137B03-DB5F-40B5-81F5-07B35FA49AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84137B03-DB5F-40B5-81F5-07B35FA49AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84137B03-DB5F-40B5-81F5-07B35FA49AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F0ED75-D3F8-48ED-9BA7-66A15B9DB6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F0ED75-D3F8-48ED-9BA7-66A15B9DB6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F0ED75-D3F8-48ED-9BA7-66A15B9DB6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F0ED75-D3F8-48ED-9BA7-66A15B9DB6A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

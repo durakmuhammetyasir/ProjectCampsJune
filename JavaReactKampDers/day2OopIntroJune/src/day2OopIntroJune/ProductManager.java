@@ -5,6 +5,6 @@ public class ProductManager {
 		System.out.println("Sepete ekleme kodu cagrildi.");		
 	}
 	public void addToCart(Product product) {
-		System.out.println("Sepete ekleme kodu cagrildi : " + product.name);		
+		System.out.println("Sepete ekleme kodu cagrildi : " + product.getName());		
 	}
 }

@@ -9,7 +9,12 @@ namespace Day4ObjectOrientedProgrammingJune
         //encapsulation
         public void Add(Product product)
         {
+            Console.WriteLine(product.ProductName + " eklendi.");
             product.ProductName = "Kamera";
+        }
+        public void Update(Product product)
+        {
+            Console.WriteLine(product.ProductName + " guncellendi.");
         }
     }
 }
