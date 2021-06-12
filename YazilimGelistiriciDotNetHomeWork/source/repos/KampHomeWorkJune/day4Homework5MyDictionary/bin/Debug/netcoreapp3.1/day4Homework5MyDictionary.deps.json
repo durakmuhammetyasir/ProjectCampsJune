@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "day4Homework5MyDictionary/1.0.0": {
+      "Day4Homework5MyDictionary/1.0.0": {
         "runtime": {
-          "day4Homework5MyDictionary.dll": {}
+          "Day4Homework5MyDictionary.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "day4Homework5MyDictionary/1.0.0": {
+    "Day4Homework5MyDictionary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

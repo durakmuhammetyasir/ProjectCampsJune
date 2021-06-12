@@ -1,4 +1,4 @@
-﻿namespace day4Homework5MyDictionary
+﻿namespace Day4Homework5MyDictionary
 {
     class MyDictionary<T1, T2>
     {   

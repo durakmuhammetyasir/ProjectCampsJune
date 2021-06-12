@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\day4Homework5MyDictionary.csproj": {}
+    "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\Day4Homework5MyDictionary.csproj": {}
   },
   "projects": {
-    "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\day4Homework5MyDictionary.csproj": {
+    "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\Day4Homework5MyDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\day4Homework5MyDictionary.csproj",
-        "projectName": "day4Homework5MyDictionary",
-        "projectPath": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\day4Homework5MyDictionary.csproj",
+        "projectUniqueName": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\Day4Homework5MyDictionary.csproj",
+        "projectName": "Day4Homework5MyDictionary",
+        "projectPath": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\Day4Homework5MyDictionary.csproj",
         "packagesPath": "C:\\Users\\Muaz\\.nuget\\packages\\",
         "outputPath": "E:\\ProjeKamplariJune2021\\YazilimGelistiriciDotNetHomeWork\\source\\repos\\KampHomeWorkJune\\day4Homework5MyDictionary\\obj\\",
         "projectStyle": "PackageReference",

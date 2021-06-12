@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace day4Homework5MyDictionary
+namespace Day4Homework5MyDictionary
 {
     class Program
     {
