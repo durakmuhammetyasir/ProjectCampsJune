@@ -73,11 +73,8 @@ public class Game {
 	public String toString() {
 		return "Game [id=" + id + ", gameTitle=" + gameTitle + ", marketValue=" + marketValue + ", discountAmount="
 				+ discountAmount + ", giftAmount=" + giftAmount
-				+ ", orderAmount=" + orderAmount + ", getId()=" + getId() + ", getGameTitle()=" + getGameTitle()
-				+ ", getMarketValue()=" + getMarketValue() + ", getDiscountAmount()=" + getDiscountAmount()
-				+ ", getGiftAmount()=" + getGiftAmount() + ", getOrderAmount()=" + getOrderAmount()
-				+ ", getPriceAfterDiscount()=" + getPriceAfterDiscount() + ", getClass()=" + getClass()
-				+ ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
+				+ ", orderAmount=" + orderAmount 
+				+ ", getPriceAfterDiscount()=" + getPriceAfterDiscount() + "]";
 	}
 	
 

@@ -20,7 +20,7 @@ public class MernisServiceAdapter implements GamerCheckService{
 						gamer.getLastName(),gamer.getDateOfBirth().get(GregorianCalendar.YEAR));
 			}catch (NumberFormatException e) {
 				//e.printStackTrace();
-				System.out.println("naltionalityId gecersiz");
+				System.out.println("nationalityId gecersiz");
 			}catch (RemoteException e) {
 				e.printStackTrace();
 			}

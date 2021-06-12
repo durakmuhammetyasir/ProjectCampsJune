@@ -98,12 +98,7 @@ public class Promotion {
 		return "PromotionName=" + PromotionName + ", hasLottery=" + hasLottery + ", hasCoupon=" + hasCoupon
 				+ ", hasDiscount=" + hasDiscount + ", lotteryGift=" + lotteryGift + ", saleCouponAmountForNextPurchase="
 				+ saleCouponAmountForNextPurchase + ", discountAmountForCurrentPurchase="
-				+ discountAmountForCurrentPurchase +", getPromotionId()=" + getPromotionId() + ", getPromotionName()="
-				+ getPromotionName() + ", isHasLottery()=" + isHasLottery() + ", isHasCoupon()=" + isHasCoupon()
-				+ ", isHasDiscount()=" + isHasDiscount() + ", getLotteryGift()=" + getLotteryGift()
-				+ ", getSaleCouponAmountForNextPurchase()=" + getSaleCouponAmountForNextPurchase()
-				+ ", getDiscountAmountForCurrentPurchase()=" + getDiscountAmountForCurrentPurchase() + ", getClass()="
-				+ getClass() + ", hashCode()=" + hashCode() + ", toString()=" + super.toString() + "]";
+				+ discountAmountForCurrentPurchase +"]";
 	}
 	
 	

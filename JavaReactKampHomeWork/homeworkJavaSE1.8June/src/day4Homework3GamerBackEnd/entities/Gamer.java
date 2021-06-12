@@ -53,8 +53,7 @@ public class Gamer implements Entity{
 	}
 	@Override
 	public String toString() {
-		return "Gamer [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", dateOfBirth="
-				+ dateOfBirth + ", nationalityId=" + nationalityId + "]";
+		return "Gamer [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ",, nationalityId=" + nationalityId + "]";
 	}
 
 }
