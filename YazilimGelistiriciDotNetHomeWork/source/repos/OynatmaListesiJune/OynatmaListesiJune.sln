@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Video37ClassIntroJune", "Vi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Video38Property", "Video38Property\Video38Property.csproj", "{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video39Encapsulation", "Video39Encapsulation\Video39Encapsulation.csproj", "{B0BADB6F-B093-4FB4-8B42-52FE4DC820DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Video39Encapsulation", "Video39Encapsulation\Video39Encapsulation.csproj", "{B0BADB6F-B093-4FB4-8B42-52FE4DC820DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video40RecapDemo", "Video40RecapDemo\Video40RecapDemo.csproj", "{08414275-D4AF-40F5-AB30-18F3549C59E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +81,10 @@ Global
 		{B0BADB6F-B093-4FB4-8B42-52FE4DC820DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0BADB6F-B093-4FB4-8B42-52FE4DC820DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0BADB6F-B093-4FB4-8B42-52FE4DC820DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08414275-D4AF-40F5-AB30-18F3549C59E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08414275-D4AF-40F5-AB30-18F3549C59E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08414275-D4AF-40F5-AB30-18F3549C59E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08414275-D4AF-40F5-AB30-18F3549C59E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{F264FB33-73BD-4BC6-ADDE-67AA0F49EE6C} = {E0A566EF-36AA-4545-91B3-614EC3B0672B}
 		{24AC05D0-9990-448C-9B89-A3B9FD8D1CB1} = {E0A566EF-36AA-4545-91B3-614EC3B0672B}
 		{B0BADB6F-B093-4FB4-8B42-52FE4DC820DA} = {E0A566EF-36AA-4545-91B3-614EC3B0672B}
+		{08414275-D4AF-40F5-AB30-18F3549C59E4} = {E0A566EF-36AA-4545-91B3-614EC3B0672B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {44171C86-D7D1-461A-B751-6E2D14DB7326}
