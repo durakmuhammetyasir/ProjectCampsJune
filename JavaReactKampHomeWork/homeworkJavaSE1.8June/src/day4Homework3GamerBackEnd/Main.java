@@ -101,6 +101,7 @@ public class Main {
 		Game[] games2 = new Game[] {game2,game4};
 		GameSalesManager gameSalesM2 = new GameSalesManager(baseGameM);
 		gameSalesM2.purchasedGames(gamer1, games2);
+		gameSalesM1.purchasedGames(gamer2, games1);
 		
 		Promotion promotion1 = new Promotion();
 		promotion1.setStartDate(new GregorianCalendar(2021,5,12)); 
@@ -111,14 +112,28 @@ public class Main {
 		promotion1.setHasCoupon(false);
 		promotion1.setHasDiscount(true);
 		promotion1.setLotteryGift("Smart Phone");
-		promotion1.setSaleCouponAmountForNextPurchase(0);
-		
+		promotion1.setSaleCouponAmountForNextPurchase(0);		
 		promotion1.setDiscountAmountForCurrentPurchase(12);
 		
 		BasePromotionManager basePromo = new PromotionManager();
 		basePromo.inProcessPromotion(game4, promotion1);
 		basePromo.addPromotion(game2, promotion1);
-		gameSalesM1.purchasedGames(gamer2, games1);
+		
+		Promotion promotion2 = new Promotion();
+		promotion2.setStartDate(new GregorianCalendar(2021,6,4)); 
+		promotion2.setFinishDate(new GregorianCalendar(2021,6,22));
+		promotion2.setPromotionId(2);
+		promotion2.setPromotionName("Karne Kampanyasi");
+		promotion2.setHasLottery(true);
+		promotion2.setHasCoupon(true);
+		promotion2.setHasDiscount(true);
+		promotion2.setLotteryGift("Game Console");
+		promotion2.setSaleCouponAmountForNextPurchase(20);		
+		promotion2.setDiscountAmountForCurrentPurchase(2);
+		
+		BasePromotionManager basePromotion = new PromotionManager();
+		basePromotion.inProcessPromotion(game1, promotion2);
+		basePromotion.addPromotion(game3, promotion2);
 
 	}
 

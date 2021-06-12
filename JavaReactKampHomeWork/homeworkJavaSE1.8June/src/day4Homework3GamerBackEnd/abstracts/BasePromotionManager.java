@@ -22,6 +22,9 @@ public abstract class BasePromotionManager implements PromotionService{
 	public void addPromotion(Game game, Promotion promotion) {
 		System.out.println(promotion.toString());
 		System.out.println(game.toString());
+		double totalDiscount= game.getDiscountAmount() + promotion.getDiscountAmountForCurrentPurchase();
+		game.setDiscountAmount(totalDiscount);
+		System.out.println("Indirim iki kampanyayi birlestirdik : " + game.getPriceAfterDiscount());
 	}
 	@Override
 	public void inProcessPromotion(Game game, Promotion promotion) {
