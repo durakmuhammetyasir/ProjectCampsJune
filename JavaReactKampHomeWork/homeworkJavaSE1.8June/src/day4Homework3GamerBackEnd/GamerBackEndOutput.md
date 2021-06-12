@@ -48,4 +48,4 @@ Game [id=2, gameTitle=PES2014, marketValue=35.0, discountAmount=15.0, giftAmount
 #### Kampanya bitisine :  0 ay ve 10 gun var
 PromotionName=Karne Kampanyasi, hasLottery=true, hasCoupon=true, hasDiscount=true, lotteryGift=Game Console, saleCouponAmountForNextPurchase=20.0, discountAmountForCurrentPurchase=2.0]
 Game [id=3, gameTitle=AssassinsCreed, marketValue=130.0, discountAmount=0.0, giftAmount=30.0, orderAmount=0, getPriceAfterDiscount()=130.0]
-#### Indirim iki kampanyayi birlestirdik : 127.4Indirim iki kampanyayi birlestirdik : 127.4
+#### Indirim iki kampanyayi birlestirdik : 127.4
