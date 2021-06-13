@@ -17,7 +17,7 @@ public class GameSalesManager extends BaseGameManager{
 	}
 	public void updateStockAfterPurchase(Gamer gamer, Game game) {
 		 game.setAmountInStock(game.getAmountInStock()-1);
-		 System.out.println(gamer.getFirstName() + " bir adet oyun aldi. Stoktaki "+ game.getGameTitle() + " oyunu sayisi : " + game.getAmountInStock());
+		 System.out.println(gamer.getFirstName() + " bir adet " + game.getGameTitle() + " oyunu aldi. Stoktaki "+ game.getGameTitle() + " oyunu sayisi : " + game.getAmountInStock());
 	}
 
 }

@@ -19,6 +19,7 @@ import day4Homework3GamerBackEnd.entities.Promotion;
 public class Main {
 
 	public static void main(String[] args) {
+		//Mernis dogrulamasi 
 		BaseGamerManager gamerManager1 = new GamerManager(new MernisServiceAdapter());
 		Gamer gamer1 = new Gamer();
 		gamer1.setDateOfBirth(new GregorianCalendar(1985, 0, 6));
@@ -34,9 +35,12 @@ public class Main {
 		gamer2.setNationalityId("");
 		gamerManager1.save(gamer1);
 		System.out.println(gamer1.toString());
+		System.out.println("______________________________");
 		gamerManager1.save(gamer2);
 		System.out.println(gamer2.toString());
+		System.out.println("______________________________");
 		
+		//oyunun stok durumu mevcut kampanyalar,tani bilgileri
 		BaseGameManager baseGameM = new GameManager();
 		Game game1 = new Game();
 		game1.setGameTitle("Age Of Empires");
@@ -50,8 +54,9 @@ public class Main {
 		baseGameM.addDiscount(game1);
 		baseGameM.giveGifts(game1);
 		baseGameM.orderInBulk(game1);
-		System.out.println(game1.toString());
+		System.out.println(game1.toString());		
 		baseGameM.updateStock(game1);
+		System.out.println("______________________________");
 		Game game2 = new Game();
 		game2.setGameTitle("PES2014");
 		game2.setAmountInStock(2);
@@ -66,6 +71,7 @@ public class Main {
 		baseGameM.orderInBulk(game2);
 		System.out.println(game2.toString());
 		baseGameM.updateStock(game2);
+		System.out.println("______________________________");
 		Game game3 = new Game();
 		game3.setGameTitle("AssassinsCreed");
 		game3.setAmountInStock(12);
@@ -80,6 +86,7 @@ public class Main {
 		baseGameM.orderInBulk(game3);
 		System.out.println(game3.toString());
 		baseGameM.updateStock(game3);
+		System.out.println("______________________________");
 		Game game4 = new Game();
 		game4.setGameTitle("Age Of Empires 3");
 		game4.setAmountInStock(5);
@@ -94,20 +101,26 @@ public class Main {
 		baseGameM.orderInBulk(game4);
 		System.out.println(game4.toString());
 		baseGameM.updateStock(game4);
+		System.out.println("______________________________");
 		
+		//Oyuncularin aldigi oyunlarin kayitlanmasi ve stok guncelleme
 		Game[] games1 = new Game[] {game1,game3};
 		GameSalesManager gameSalesM1 = new GameSalesManager(baseGameM);
 		gameSalesM1.purchasedGames(gamer2, games1);
+		System.out.println("______________________________");
 		Game[] games2 = new Game[] {game2,game4};
 		GameSalesManager gameSalesM2 = new GameSalesManager(baseGameM);
 		gameSalesM2.purchasedGames(gamer1, games2);
+		System.out.println("______________________________");
 		gameSalesM1.purchasedGames(gamer2, games1);
+		System.out.println("______________________________");
 		
+		//Iki yeni kampanyanin tanimlanmasi, baslama ve bitis tarihleri guncellemelr
 		Promotion promotion1 = new Promotion();
 		promotion1.setStartDate(new GregorianCalendar(2021,5,12)); 
 		promotion1.setFinishDate(new GregorianCalendar(2021,8,22));
 		promotion1.setPromotionId(1);
-		promotion1.setPromotionName("Yaz Kampanyasi");
+		promotion1.setPromotionName("Yaz Senligi");
 		promotion1.setHasLottery(true);
 		promotion1.setHasCoupon(false);
 		promotion1.setHasDiscount(true);
@@ -117,13 +130,26 @@ public class Main {
 		
 		BasePromotionManager basePromo = new PromotionManager();
 		basePromo.inProcessPromotion(game4, promotion1);
+		System.out.println("______________________________");
+		basePromo.addPromotion(game1, promotion1);
+		basePromo.updatePromotion(game1, promotion1);
+		System.out.println("______________________________");
 		basePromo.addPromotion(game2, promotion1);
+		basePromo.updatePromotion(game2, promotion1);
+		System.out.println("______________________________");		
+		basePromo.addPromotion(game3, promotion1);
+		basePromo.updatePromotion(game3, promotion1);
+		System.out.println("______________________________");
+		basePromo.addPromotion(game4, promotion1);
+		basePromo.updatePromotion(game4, promotion1);
+		
+		System.out.println("______________________________");
 		
 		Promotion promotion2 = new Promotion();
 		promotion2.setStartDate(new GregorianCalendar(2021,6,4)); 
-		promotion2.setFinishDate(new GregorianCalendar(2021,6,22));
+		promotion2.setFinishDate(new GregorianCalendar(2021,6,12));
 		promotion2.setPromotionId(2);
-		promotion2.setPromotionName("Karne Kampanyasi");
+		promotion2.setPromotionName("Karne Senligi");
 		promotion2.setHasLottery(true);
 		promotion2.setHasCoupon(true);
 		promotion2.setHasDiscount(true);
@@ -133,7 +159,20 @@ public class Main {
 		
 		BasePromotionManager basePromotion = new PromotionManager();
 		basePromotion.inProcessPromotion(game1, promotion2);
-		basePromotion.addPromotion(game3, promotion2);
+		System.out.println("______________________________");
+		basePromo.addPromotion(game1, promotion2);
+		basePromo.updatePromotion(game1, promotion2);
+		System.out.println("______________________________");
+		basePromo.addPromotion(game2, promotion2);
+		basePromo.updatePromotion(game2, promotion2);
+		System.out.println("______________________________");
+		basePromo.addPromotion(game3, promotion2);
+		basePromo.updatePromotion(game1, promotion2);
+		System.out.println("______________________________");
+		basePromo.addPromotion(game4, promotion2);
+		basePromo.updatePromotion(game4, promotion2);
+
+		System.out.println("______________________________");
 
 	}
 

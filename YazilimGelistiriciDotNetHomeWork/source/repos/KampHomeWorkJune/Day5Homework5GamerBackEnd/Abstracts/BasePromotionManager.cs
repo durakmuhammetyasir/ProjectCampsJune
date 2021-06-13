@@ -24,11 +24,12 @@ namespace Day5Homework5GamerBackEnd.Abstracts
         public void AddPromotion(Game game, Promotion promotion)
         {
             Console.WriteLine(promotion.PromotionName + " devam ediyor ");
-            game.DiscountAmount += promotion.DiscountAmountForCurrentPurchase;
-            Console.WriteLine("Indirim iki kampanyayi birlestirdik : " + game.GameTitle + " oyunu yuzde " + game.DiscountAmount + " indirimle simdi sadece " + game.PriceAfterDiscount + "\n");
+            double kampanyaIndirim = game.DiscountAmount + promotion.DiscountAmountForCurrentPurchase;
+            double kampanyaliFiyat = game.MarketValue - (game.MarketValue * kampanyaIndirim / 100);
+            Console.WriteLine("Indirim iki kampanyayi birlestirdik : " + game.GameTitle + " oyunu yuzde " + kampanyaIndirim + " indirimle simdi sadece " + kampanyaliFiyat + "\n");
         }
 
-        public void DeletePromotion(Game game, Promotion promotion)
+        public virtual void DeletePromotion(Game game, Promotion promotion)
         {
             Console.WriteLine(promotion.PromotionName + " kampanyamiz sona erdi");
             Console.WriteLine("Bizi takip edin.");
@@ -47,14 +48,12 @@ namespace Day5Homework5GamerBackEnd.Abstracts
 
         public void UpdatePromotion(Game game, Promotion promotion)
         {
-            promotion.DiscountAmountForCurrentPurchase += 5;
             promotion.SaleCouponAmountForNextPurchase += 5;
-            game.DiscountAmount += promotion.DiscountAmountForCurrentPurchase;
+            double lastChance = game.DiscountAmount + promotion.DiscountAmountForCurrentPurchase +5.0;
+            double lastPrice = game.MarketValue - (game.MarketValue * lastChance / 100);
             SaleCouponAmountPromotion = game.GiftAmount + promotion.SaleCouponAmountForNextPurchase;
             Console.WriteLine("Ekstra %5 hediye ceki : " + SaleCouponAmountPromotion);
-            Console.WriteLine("Damping Ekstra %5 İndirim! Zararina ! " + game.GameTitle + " : " + game.MarketValue + " fiyatindan yuzde " + game.DiscountAmount + " indirimle "+ game.PriceAfterDiscount + " fiyatina geriledi");
-            promotion.DiscountAmountForCurrentPurchase -= 5;
-            promotion.SaleCouponAmountForNextPurchase -= 5;
+            Console.WriteLine("Damping Ekstra %5 İndirim! Zararina ! " + game.GameTitle + " : " + game.MarketValue + " fiyatindan yuzde " + lastChance + " indirimle " + lastPrice + " fiyatina geriledi");
         }
     }        
 }

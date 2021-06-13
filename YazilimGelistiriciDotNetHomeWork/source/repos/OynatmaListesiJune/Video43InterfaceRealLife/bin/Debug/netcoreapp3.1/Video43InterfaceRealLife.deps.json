@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Video43InterfaceRealLife/1.0.0": {
+        "runtime": {
+          "Video43InterfaceRealLife.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Video43InterfaceRealLife/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
