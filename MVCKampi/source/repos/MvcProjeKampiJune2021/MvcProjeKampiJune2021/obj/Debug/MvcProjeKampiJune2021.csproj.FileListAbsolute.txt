@@ -90,3 +90,5 @@ E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKam
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityFramework.xml
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityFramework.SqlServer.dll
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\EntityFramework.SqlServer.xml
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\FluentValidation.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\MvcProjeKampiJune2021\bin\FluentValidation.xml

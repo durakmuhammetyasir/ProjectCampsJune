@@ -16,3 +16,5 @@ E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\BusinessLay
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\BusinessLayer\obj\Debug\BusinessLayer.dll
 E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\BusinessLayer\bin\Debug\FluentValidation.dll
+E:\ProjeKamplariJune2021\MVCKampi\source\repos\MvcProjeKampiJune2021\BusinessLayer\bin\Debug\FluentValidation.xml
